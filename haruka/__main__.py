@@ -33,9 +33,9 @@ Made from the source code of [Ꮛ Ꮏ Ꮒ i Ꮳ Ꭿ l🇮🇳](t.me/ETHICAL_OF_T
 
 Special thanks to [this person](t.me/xditya) for helping me.
 
-Deploy a bot like me [now](www.github.com/xditya/GroupManager)
 
-Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
+
+
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 

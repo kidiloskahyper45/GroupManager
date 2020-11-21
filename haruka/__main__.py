@@ -22,16 +22,16 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you
+You know how hard👀 it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for RR Players🃏
+I'm😌 group manager bot and Anti-spam for RR Players🃏
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-Made from the source code of [Ꮛ Ꮏ Ꮒ i Ꮳ Ꭿ l🇮🇳](t.me/ETHICAL_OF_TELEGRAM)
+Made from the source code of👑 [Pr_o_To🇮🇳](t.me/Pr_o_To)
 
-Special thanks to [this person](t.me/xditya) for helping me.
+Special thanks to [this person](t.me/rosebakthan_bot) for helping me.
 
 
 
@@ -143,7 +143,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("I'm alive")
+        update.effective_message.reply_text("I'm sleeping now call me later 😒")
 
 def send_start(bot, update):
     #Try to remove old message
